@@ -1,0 +1,6 @@
+LangChain is a framework for building applications powered by language models.
+It allows developers to connect LLMs to external data sources and tools.
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+RAG stands for Retrieval-Augmented Generation. It improves LLM responses by
+providing relevant context from a knowledge base before generating an answer.
+Flask is a lightweight Python web framework used to build REST APIs quickly.
